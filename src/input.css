@@ -75,3 +75,11 @@
   border: 1px solid #eeeaea;
   border-top: none;
 }
+#sider{
+  scale: 1.2;
+  transition: scale 200ms linear; 
+}
+#sider:hover{
+  scale: 1.3;
+  transition: scale 200ms linear;  
+}
